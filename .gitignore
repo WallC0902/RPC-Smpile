@@ -10,3 +10,32 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+*.project
+*.settings
+/.idea
+/http-consumer/.project
+/http-consumer/.idea
+/http-consumer/.settings
+/http-consumer/target
+/http-consumer/.classpath
+/http-interfaces/.project
+/http-interfaces/.settings
+/http-interfaces/target
+/http-interfaces/.idea
+/http-interfaces/.classpath
+/http-interfaces/.project
+/http-provider/.settings
+/http-provider/target
+/http-provider/.idea
+/http-provider/.classpath
+/http-provider/.gitignore
+/http-rpc/.settings
+/http-rpc/target
+/http-rpc/.idea
+/http-rpc/.classpath
+/http-rpc/.gitignore
+*.iml
+*.idea
+*.DS_Store
+*.ipr
+*.iws
